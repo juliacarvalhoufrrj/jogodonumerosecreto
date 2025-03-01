@@ -2,7 +2,7 @@
 <h2>ֶָ֢⊹𐙚 Sobre</h2>
 <p> Este projeto foi criado a partir dos cursos de lógica de programação da Alura.
 
-O desafio consiste em elaborar, através do javascript, o funcionamento da página onde o usuário adicionará nomes em uma lista e realizará um sorteio aleatório a fim de estipular o amigo secreto.
+A atividade consiste na construção de um jogo do qual o usuário adivinhará qual fora o número secreto aleatório escolhido pelo sistema.
 </p>
 
 ## ⋆౨ৎ˚⟡˖࣪ Funcionalidades
